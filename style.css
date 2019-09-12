@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+#naam {font-size: large}; {background-color: green}; 
+#hobbys {color: blue}; {background-color: red}; 
+#series {color: orange}; {background-color: blue}; 
+#all {width: auto}; 
+#form-example {border-radius: 30px;}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+label,
+footer {
+    font-family: sans-serif;
+}
+
+label {
+    font-size: 1rem;
+    padding-right: 10px;
+}
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+}
+
+footer {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+.output {
+    background: center/cover no-repeat url('https://i.pinimg.com/564x/03/5f/16/035f1656143834f42e17aee54c25dcf1.jpg');
+    position: relative;
+}
+
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+
